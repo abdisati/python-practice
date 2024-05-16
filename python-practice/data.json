@@ -1,0 +1,14 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "interests": [
+        "Traveling",
+        "Football",
+        "Golf",
+        "Running",
+        "Running",
+        "Videogames",
+        "History"
+    ],
+    "is_student": false
+}
